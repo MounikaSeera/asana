@@ -1,0 +1,5 @@
+
+{
+  "name": "Asana RL Data Architect",
+  "description": "An advanced workspace for creating realistic, high-quality seed datasets for Asana RL environments, featuring schema design, data generation logic, and real-time previewing powered by Gemini."
+}
